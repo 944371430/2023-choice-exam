@@ -19,3 +19,9 @@
 `package.json` 设置 `type` 为 `module`
 
 编写 `.gitignore` 文件
+
+## 2023 年 4 月 17 日
+
+为 `node` 添加 `--experimental-specifier-resolution=node` 选项
+
+> <https://blog.csdn.net/jadexupeng/article/details/126928989>
